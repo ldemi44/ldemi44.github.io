@@ -1,0 +1,132 @@
+/* Style sheet created by: Luke Demi */
+
+/* Style for body specifies a background color */
+body {
+	background-color: #F8F8FF;
+}
+
+/* Style to create a fluid image */
+#banner {
+	max-width: 100%;
+	padding: 0.75em;
+	margin-left: 2.5em;
+	margin-right: 3.45em;
+	background-color: #FFF8E8;
+	border: solid #FFF8E8;
+	border-radius: 2em;
+	box-shadow: 0.2em 0.2em 0.2em;
+}
+
+/* Style for container centers the page and sets the element width */
+#container {
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+/* Style for header specifies top margin, background color, rounded corners, and center-aligns content */
+header {
+	margin-top: 0.2em;
+	color: #336699;
+	text-align: center;
+}
+
+/* Style for nav specifies text properties */
+nav {
+	font-family: Georgia, "Times New Roman", serif;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+/* Style specifies padding and margins for unordered list */
+nav ul {
+	margin-top: 1.25em;
+	margin-bottom: 0.5em;
+	text-align: center;
+}
+
+nav li {
+	border-top: solid #978cbd;
+	border-bottom: solid #978cbd;
+	margin-left: 0;
+	margin-right: 0;
+	background-color: #978cbd;
+	list-style-type: none;
+	padding: 0.75em;
+	float: left;
+	width: 18%;
+}
+
+/* Style changes navigation link text color to white and removes the underline */
+nav li a {
+	color: #FFFFFF;
+	text-decoration: none;
+	padding: 2.5em;
+}
+
+main {
+	clear: both;
+	padding: 0.75em;
+	margin-left: 2.5em;
+	margin-right: 3.45em;
+	background-color: #FFF8E8;
+	border: solid #FFF8E8;
+	border-radius: 0 0 2em 2em;
+	box-shadow: 0.2em 0.2em 0.2em;
+}
+
+/* Style for footer specifies font size, text alignment, and top margin */
+footer {
+	font-size: .70em;
+	text-align: center;
+	margin-top: 2em;
+	clear: both;
+}
+
+/* Style for anchor elements within the footer element */
+footer a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.states {
+	width: 20em;
+	padding-right: 40px;
+	float: left;
+}
+
+
+/* Style specifies bottom padding for the section element */
+section {
+	display: inline-block;
+	padding-bottom: 2em;
+}
+	
+/* Style for h1 element within the section element */
+h1 {
+	text-align: left;
+}
+
+.floatright {
+	float: right;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+
+/* Links */
+/* https://www.arcgis.com/apps/dashboards/951428e32723456c879d0966af4baa8a */
+/* https://www.cbsnews.com/news/states-where-americans-are-moving-florida-texas-north-carolina-south-carolina/ */
+/* https://www.census.gov/newsroom/press-releases/2022/2022-population-estimates.html */
+
+/* https://exprealty.com/guides/15-reasons-people-are-moving-to-florida-what-you-need-to-know/ */
+/* https://www.forbes.com/sites/greatspeculations/2022/05/26/texas-is-now-home-to-more-fortune-500-companies-than-any-other-state-and-im-not-surprised/?sh=1038ab9427d5 */
+/* https://thedigestonline.com/branded-content/why-are-so-many-people-moving-to-arizona/ */
+/* https://www.wral.com/living-in-north-carolina/20432506/ */
+/* https://keypointhomesgroup.com/why-people-are-moving-to-georgia/ */
+/* https://www.timesunion.com/state/article/New-York-continues-to-lead-nation-in-population-17674233.php#:~:text=The%20states%20with%20the%20greatest%20relative%20population%20increase%20over%20the,due%20to%20deaths%20outpacing%20births. */
+/* https://calmatters.org/newsletters/whatmatters/2023/02/california-population-exodus-housing/ */
+/* https://www.theadvocate.com/baton_rouge/news/business/louisianas-population-continues-to-shrink-stats-show-nearly-13k-decline-between-2019-2020/article_3833634c-5cdc-11eb-951d-b39a30651d28.html */
+/* https://www.phillyburbs.com/story/opinion/2023/01/20/pennsylvania-population-exodus-2023/69822284007/ */
+/* https://www.heritage.org/taxes/commentary/why-are-people-fleeing-illinois */
